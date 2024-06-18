@@ -1,2 +1,2 @@
 # Tableau-Projects
-A collection of my tableau visualizations, to document my growth
+Tableau Dashbaord that shows the customer's rating based on specified criteria 
